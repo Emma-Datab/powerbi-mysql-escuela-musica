@@ -1,7 +1,7 @@
 # 📊 Análisis de Datos - Escuela de Música
 
 ## Descripción
-Proyecto de análisis de datos que incluye el diseño de una base de datos relacional en MySQL y la construcción de un dashboard interactivo en Power BI.
+Base de datos en MySQL y dashboard en Power BI para análisis de una escuela de música.
 
 ## Tecnologías utilizadas
 - **MySQL / MariaDB** — Diseño y gestión de base de datos relacional
